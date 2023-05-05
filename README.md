@@ -13,7 +13,7 @@ The goal of analyer is to Make Regular Expressions More Exciting
 You can install the development version of analyer like so:
 
 ``` r
-devtools::install_github("jennybc/regexcite")
+devtools::install_github("Jchen1211/analyer")
 ```
 
 ## Example
